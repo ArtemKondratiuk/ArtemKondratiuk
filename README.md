@@ -16,7 +16,7 @@
         "arch",
         "hyprland"
     ],
-    "job responsibilities": [
+    "job_responsibilities": [
         "Develop on Symfony",
         "Develop and implement considering architecture standards, processes, and tools",
         "Debug and troubleshoot technical issues",
