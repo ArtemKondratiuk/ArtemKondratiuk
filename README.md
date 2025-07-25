@@ -1,7 +1,10 @@
+![symfdev](https://github.com/user-attachments/assets/41aa74b2-cf5d-47d6-b2d3-e849429f7d57)
+
 ## Hi there, I'm Solaire! 👋
 
 <!--
 **ArtemKondratiuk/ArtemKondratiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
