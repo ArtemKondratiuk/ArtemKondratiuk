@@ -1,6 +1,6 @@
-![symfdev](https://github.com/user-attachments/assets/41aa74b2-cf5d-47d6-b2d3-e849429f7d57)
+<p align="center" >  <img src="https://github.com/user-attachments/assets/41aa74b2-cf5d-47d6-b2d3-e849429f7d57"> </p>
 
-## Hi there, I'm Solaire! 👋
+<h1 align="center" > Hi there, I'm Solaire! 👋 </h1>
 
 <!--
 **ArtemKondratiuk/ArtemKondratiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
