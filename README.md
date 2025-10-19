@@ -7,7 +7,6 @@
 {
     "name": "Artem Kondratiuk",
     "role": "Symfony developer",
-    "email": "artem.k.phpdev@gmail.com"
     "fields_of_interests": [
         "php",
         "symfony",
